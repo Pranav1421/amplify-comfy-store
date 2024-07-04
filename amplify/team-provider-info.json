@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-comfystore-dev-5eaa1-authRole",
+      "UnauthRoleArn": "arn:aws:iam::637423261521:role/amplify-comfystore-dev-5eaa1-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::637423261521:role/amplify-comfystore-dev-5eaa1-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-comfystore-dev-5eaa1-deployment",
+      "UnauthRoleName": "amplify-comfystore-dev-5eaa1-unauthRole",
+      "StackName": "amplify-comfystore-dev-5eaa1",
+      "StackId": "arn:aws:cloudformation:us-east-1:637423261521:stack/amplify-comfystore-dev-5eaa1/6b82cc00-3a0b-11ef-bb9a-0affd1ccd2b3",
+      "AmplifyAppId": "d1xnbzpn57muc6"
+    },
+    "categories": {
+      "auth": {
+        "comfystore7c640a82": {}
+      }
+    }
+  }
+}
